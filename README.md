@@ -2,7 +2,7 @@
 Real-time embedded medicine recognition system on MaixPy Edge-AI featuring PaddleOCR, 4-stage glyph/phonetic error correction, temporal voting, and UART telemetry.
 <div align="center">
 
-#  Edge-AI Assistive Medicine Recognition System
+# MediGuide: Edge-AI Assistive Medicine Recognition System
 ### Real-Time Embedded OCR, Hierarchical Error Correction & Temporal Voting for the Visually Impaired
 
 [![Platform: MaixPy Edge AI](https://img.shields.io/badge/Platform-MaixPy%20Edge%20AI-FF6F00.svg)]()
